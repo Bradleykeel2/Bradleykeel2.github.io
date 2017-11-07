@@ -5,7 +5,7 @@
     width: 100%;
 }
 .mytablestyle td, .mytablestyle th{
-  border: 1px solid #ddd;
+  border: 1px solid black;
     padding: 8px;
 }
 .mytablestyle th{
@@ -100,4 +100,5 @@
   background-color: blue;
   color: gold 
 }
+
 
