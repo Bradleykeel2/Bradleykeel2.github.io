@@ -1,1 +1,103 @@
 
+.mytablestyle{
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+.mytablestyle td, .mytablestyle th{
+  border: 1px solid #ddd;
+    padding: 8px;
+}
+.mytablestyle th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: blue;
+    color: gold;
+}
+.mytablestyle td{
+    text-align: center;
+    color: black;
+}
+
+.mystyle{
+  font-family:"Arial";
+}
+/*Pre Writing Phase*/
+.mypwpstyle{
+  text-align:center;
+  background-color: blue;
+  color: gold 
+}
+
+/*Writing Phase*/
+.mywpstyle{
+  text-align:center;
+  background-color: blue;
+  color: gold 
+}
+
+/*Comments*/
+.mycstyle{
+  text-align:center;
+  background-color: blue;
+  color: gold 
+}
+
+/*Links*/
+.mylstyle{
+  text-align:center;
+  background-color: blue;
+  color: gold 
+}
+
+/*Images*/
+.myistyle{
+  text-align:center;
+  background-color: blue;
+  color: gold 
+}
+
+/*divide Tag*/
+.mydstyle{
+  text-align:center;
+  background-color: blue;
+  color: gold 
+}
+
+/*Table*/
+.mytablebstyle{
+  text-align:center;
+  background-color: blue;
+  color: gold 
+}
+
+/*List*/
+.mylistyle{
+  text-align:center;
+  background-color: blue;
+  color: gold 
+}
+
+/*ListA*/
+.myListastyle{
+    background:royalblue;
+    padding: 20px;
+    color:white;
+    border: 1px solid black;
+}
+
+/*ListB*/
+.myListbstyle{
+    background:red;
+    padding: 20px;
+    color:white;
+
+
+/*divide Tag*/
+.mydstyle{
+  text-align:center;
+  background-color: blue;
+  color: gold 
+}
+
