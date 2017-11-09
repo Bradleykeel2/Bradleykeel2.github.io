@@ -1,8 +1,17 @@
 
+.mytitlestyle{
+  border-collapse: collapse;
+  border: 10px solid black;
+  background-color: Gold;
+  text-align: center;
+}
 .mytablestyle{
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
+}
+tr:nth-child(even) {
+background-color: lightblue;
 }
 .mytablestyle td, .mytablestyle th{
   border: 1px solid black;
@@ -22,61 +31,70 @@
 
 .mystyle{
   font-family:"Arial";
+  background-color: grey  ;
 }
 /*Pre Writing Phase*/
 .mypwpstyle{
-  text-align:center;
-  background-color: blue;
-  color: gold 
+  border-collapse: collapse;
+  border: 10px solid black;
+  background-color: Gold;
+  text-align: center;
 }
 
 /*Writing Phase*/
 .mywpstyle{
-  text-align:center;
-  background-color: blue;
-  color: gold 
+  border-collapse: collapse;
+  border: 10px solid black;
+  background-color: Gold;
+  text-align: center;
 }
 
 /*Comments*/
 .mycstyle{
-  text-align:center;
-  background-color: blue;
-  color: gold 
+  border-collapse: collapse;
+  border: 10px solid black;
+  background-color: Gold;
+  text-align: center;
 }
 
 /*Links*/
 .mylstyle{
-  text-align:center;
-  background-color: blue;
-  color: gold 
+  border-collapse: collapse;
+  border: 10px solid black;
+  background-color: Gold;
+  text-align: center;
 }
 
 /*Images*/
 .myistyle{
-  text-align:center;
-  background-color: blue;
-  color: gold 
+  border-collapse: collapse;
+  border: 10px solid black;
+  background-color: Gold;
+  text-align: center;
 }
 
 /*divide Tag*/
 .mydstyle{
-  text-align:center;
-  background-color: blue;
-  color: gold 
+  border-collapse: collapse;
+  border: 10px solid black;
+  background-color: Gold;
+  text-align: center;
 }
 
 /*Table*/
 .mytablebstyle{
-  text-align:center;
-  background-color: blue;
-  color: gold 
+  border-collapse: collapse;
+  border: 10px solid black;
+  background-color: Gold;
+  text-align: center;
 }
 
 /*List*/
 .mylistyle{
-  text-align:center;
-  background-color: blue;
-  color: gold 
+  border-collapse: collapse;
+  border: 10px solid black;
+  background-color: Gold;
+  text-align: center; 
 }
 
 /*ListA*/
@@ -96,9 +114,8 @@
 
 /*divide Tag*/
 .mydstyle{
-  text-align:center;
-  background-color: blue;
-  color: gold 
+  border-collapse: collapse;
+  border: 10px solid black;
+  background-color: Gold;
+  text-align: center;
 }
-
-
