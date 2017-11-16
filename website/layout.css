@@ -9,6 +9,32 @@ h3 {
   display: Block;
 }
 
+.worldcup{
+  width:400px;
+  height:250px;
+}
+.mytablestyle{
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.mytablestyle td, .mytablestyle th{
+  border: 1px solid black;
+    padding: 8px;
+}
+.mytablestyle th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: black;
+    color: gold;
+}
+.mytablestyle td{
+    text-align: center;
+    color: black;
+}
+
 /* Style the header */
 .header {
     background-color: blue;
@@ -19,9 +45,16 @@ h3 {
 .lltable{
   width:350px;
 }
+.lltable2{
+  width:500px;
+}
 .llgoals{
   width:300px;
   height:200px;
+}
+.llgoals2{
+  width:400px;
+  
 }
 .llnews{
   float:right;
@@ -69,7 +102,7 @@ h3 {
 
 /* Middle column */
 .column.middle {
-    width: 50%;
+    width: 40%;
 }
 
 /* Clear floats after the columns */
