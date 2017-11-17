@@ -8,14 +8,6 @@ body {
 h3 {
   display: Block;
 }
-ul {
-    background: grey;
-    padding: 20px;
-}
-ul li {
-    background: black;
-    color:gold;
-    margin: 5px;
 
 .worldcup{
   width:400px;
@@ -49,6 +41,16 @@ ul li {
     padding: 20px;
     text-align: center;
     color:gold;
+}
+
+ul {
+    background: grey;
+    padding: 20px;
+}
+ul li {
+    background: black;
+    color:gold;
+    margin: 5px;
 }
 .lltable{
   width:350px;
